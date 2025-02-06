@@ -20,9 +20,7 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
-
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Welcome to the CitiObs Leave-No-One-Behind (LNOB) Toolkit! The LNOB Toolkit empowers users to create inclusive environments by engaging diverse and often underserved communities, connecting with specific hard-to-reach groups, assessing who might be left behind, ensuring ethical engagement, and prioritising justice and equity in their work.
 
 ### Jump right in
 
