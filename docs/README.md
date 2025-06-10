@@ -20,6 +20,6 @@ layout:
 
 # Welcome
 
-Welcome to the CitiObs Leave-No-One-Behind (LNOB) Toolkit! The LNOB Toolkit empowers users to create inclusive environments by engaging diverse and often underserved communities, connecting with specific hard-to-reach groups, assessing who might be left behind, ensuring ethical engagement, and prioritising justice and equity in their work.
+Welcome to the CitiObs Leave-No-One-Behind (LNOB) Toolkit! This toolkit is designed to help Citizen Observatories think through diversity and inclusion in a way that’s relevant to their specific locations and the issues they are working on. It contains practical guidance and resources from across Europe’s citizen science community to help Citizen Observatories make their initiatives more inclusive and representative of all stakeholders.​
 
 ###
