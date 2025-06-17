@@ -3,7 +3,7 @@
 * [Welcome](README.md)
   * [Glossary of LNOB Terms](readme/glossary-of-lnob-terms.md)
   * [About](readme/about.md)
-  * [Why this toolkit](readme/why-this-toolkit.md)
+  * [Toolkit contents](readme/toolkit-contents.md)
 * [LNOB WORKSHOP MATERIALS](lnob-workshop-materials/README.md)
   * [Workshop Slide Deck](lnob-workshop-materials/workshop-slide-deck.md)
   * [Suggested Workshop Structure](lnob-workshop-materials/suggested-workshop-structure.md)
