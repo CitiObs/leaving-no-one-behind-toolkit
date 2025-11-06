@@ -14,10 +14,8 @@ The aim of the **LNOB Toolkit** is to help you to:
 * **Reflect on who may be left behind** in your context, and explore ways to include them in your activities,
 * **Identify ways you might reach and engage** a broader range of participants and communities, and groups who may be under-represented,
 * **Create an inclusive environment** to involve people with a stake in the issue or those disproportionately impacted by it.
-* **Consider ethical issues** when you are planning  your outreach and engagement activities, such that they are respectul and supportive of diverse communities.
+* **Consider ethical issues** when you are planning  your outreach and engagement activities, such that they are respectful and supportive of diverse communities.
 
+Unsure of what a 'Citizen Observatory' is? _Head to_ [_our Glossary_ ](readme/glossary-of-lnob-terms.md)_for definitions of a range of terms we use in this Toolkit_
 
-
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-###
+<figure><img src=".gitbook/assets/CitiObs_LNOB Illustration_1.png" alt="" width="375"><figcaption></figcaption></figure>

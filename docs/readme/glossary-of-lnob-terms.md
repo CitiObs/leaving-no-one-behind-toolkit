@@ -9,6 +9,12 @@ description: >-
 
 **Accessibility** – Openness, the quality of being approachable, available in practice. The term also describes the ability to comprehend the language of a service or activity, and the distance between service or activity and potential users due to various resources such as time and money. (Porta, 2023).
 
+**Citizen Observatory (CO)** - A community-based environmental monitoring and information system that involves the participation of citizens in observing and reporting on their environment, often using technology like mobile phones or the web.
+
+**Citizen-led Actions** - An initiative or a series of actions primarily conceived, organized, and delivered by citizen communities within a Citizen Observatory, often focused on addressing local environmental concerns and creating positive change without necessarily relying on external processes.
+
+**Co-creation** - A collaborative process where multiple stakeholders, including citizens, researchers, and other relevant parties, work together to jointly develop ideas, solutions, and actions, ensuring diverse perspectives are integrated.
+
 **Consent** – Agreement by choice, made freely without duress or deception, and with sufficient capacity and legal competence to give it. (Law, 2022).
 
 **Bias** – A conscious or unconscious attitude towards people or the interpretation of a phenomenon that can lead to (positive or negative) prejudice, discrimination, and/or representation. (Chandler & Munday, 2020).
