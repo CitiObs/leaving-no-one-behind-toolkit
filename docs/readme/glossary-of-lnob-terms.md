@@ -5,7 +5,7 @@ description: >-
   Inclusiveness and Equity (EIE).
 ---
 
-# Glossary of LNOB Terms
+# Glossary of Terms
 
 **Accessibility** – Openness, the quality of being approachable, available in practice. The term also describes the ability to comprehend the language of a service or activity, and the distance between service or activity and potential users due to various resources such as time and money. (Porta, 2023).
 

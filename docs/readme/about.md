@@ -1,4 +1,4 @@
-# About
+# More about CitiObs
 
 This toolkit is one of several being produced in the EU-funded **CitiObs** project ('_Enhancing Citizen Observatories for healthy, sustainable, resilient and inclusive cities'_) that aims to foster inclusive, diverse, and stable citizen participation in the observation, monitoring, and protection of urban environments.&#x20;
 
