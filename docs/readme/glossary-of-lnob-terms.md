@@ -13,6 +13,8 @@ description: >-
 
 **Citizen-led Actions** - An initiative or a series of actions primarily conceived, organized, and delivered by citizen communities within a Citizen Observatory, often focused on addressing local environmental concerns and creating positive change without necessarily relying on external processes.
 
+**Citizen Science** - There are a wide range of participatory research and community science practices that fall under the umbrella term 'Citizen Science', sometimes also referred to as 'Community Science'. Their shared characteristic is **the active involvement of the public in scientific knowledge co-production**. More information can be found in the [ECSA 10 Principles of Citizen Science](https://www.ecsa.ngo/10-principles/), and [ECSA's Characteristics of Citizen Science](https://ecsa.ngo/wp-content/uploads/2020/05/ecsa_characteristics_of_citizen_science_-_v1_final.pdf).
+
 **Co-creation** - A collaborative process where multiple stakeholders, including citizens, researchers, and other relevant parties, work together to jointly develop ideas, solutions, and actions, ensuring diverse perspectives are integrated.
 
 **Consent** – Agreement by choice, made freely without duress or deception, and with sufficient capacity and legal competence to give it. (Law, 2022).
