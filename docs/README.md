@@ -1,21 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/LNOB toolkit header.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome
@@ -24,17 +10,13 @@ Welcome to the CitiObs Leave-No-One-Behind (LNOB) Toolkit, which is designed to 
 
 The aim of the **LNOB Toolkit** is to help you to:
 
-**Engage a broader range of participants:** Reach out to diverse communities and individuals who may have been underserved.
+* **Consider issues of inclusion, diversity, equity, and justice** in the context of your Citizen Observatory and its activities,
+* **Reflect on who may be left behind** in your context, and explore ways to include them in your activities,
+* **Identify ways you might reach and engage** a broader range of participants and communities, and groups who may be under-represented,
+* **Create an inclusive environment** to involve people with a stake in the issue or those disproportionately impacted by it.
+* **Consider ethical issues** when you are planning  your outreach and engagement activities, such that they are respectul and supportive of diverse communities.
 
-**Connect with specific groups:** Engage with key groups that may be difficult to reach.
 
-**Create an inclusive environment:** Involve people with a stake in the issue or those disproportionately impacted by it.
-
-**Assess who may be left behind:** Reflect on who isn’t yet involved and explore ways to include them.
-
-**Ensure ethical engagement:** Design outreach that respects and supports diverse communities.
-
-**Consider justice and equity:** Bring a focus on justice, equity, diversity, and inclusion into your Citizen Observatory’s work.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
