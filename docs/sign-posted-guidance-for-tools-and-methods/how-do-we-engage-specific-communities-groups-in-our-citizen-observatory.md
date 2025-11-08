@@ -54,9 +54,9 @@ _(not yet identified)_
 
 ## You may also be interested in…
 
-[What does Leave No One Behind (LNOB) mean?](what-does-leave-no-one-behind-lnob-mean.md)
+[What does Leave No One Behind (LNOB) mean?](broken-reference)
 
-[How can we engage with the concepts of Equity, Diversity and Inclusion (EDI)?](how-can-we-engage-with-the-concepts-of-equity-diversity-and-inclusion-edi.md)
+[How can we engage with the concepts of Equity, Diversity and Inclusion (EDI)?](../reflection/how-can-we-engage-with-the-concepts-of-equity-diversity-and-inclusion-edi.md)
 
 [How can we ensure that our outreach and engagement activities are ethical?](how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical.md)
 

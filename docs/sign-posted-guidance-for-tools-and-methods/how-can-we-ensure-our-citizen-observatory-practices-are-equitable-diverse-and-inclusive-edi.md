@@ -99,9 +99,9 @@ _(Not yet identified_)
 
 ## You may also be interested in…
 
-[What does Leave No One Behind (LNOB) mean?](what-does-leave-no-one-behind-lnob-mean.md)
+[What does Leave No One Behind (LNOB) mean?](broken-reference)
 
-[How can we engage with the concepts of Equity, Diversity and Inclusion (EDI)?](how-can-we-engage-with-the-concepts-of-equity-diversity-and-inclusion-edi.md)
+[How can we engage with the concepts of Equity, Diversity and Inclusion (EDI)?](../reflection/how-can-we-engage-with-the-concepts-of-equity-diversity-and-inclusion-edi.md)
 
 [How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
 
