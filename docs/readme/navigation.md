@@ -6,7 +6,7 @@ icon: arrows-up-down-left-right
 
 ## How to Navigate this Toolkit
 
-Readers can use this toolkit freely by navigating through each section, without any particular predefined order. However, even if readers can jump into different sections as needed, the toolkit follows a logical sequence that progressively builds upon tools that can help navigate a generic community-led action co-creation process.
+Readers can use this toolkit freely, and jump to any particular section as needed,  however we have attempted to organise the toolkit along a logical sequence that roughly represents the life-cycle of a project or an initiative.&#x20;
 
 In each section, when possible, links to existing resources are provided. The overall toolkit is also meant to be iterative, and it provides reflection tools that can help better define future steps and reflect on the results achieved.
 
@@ -36,14 +36,3 @@ We’ve kept things simple and action-oriented. In this Toolkit, you will find:
 
 By providing guidance on finding and involving creatives, particularly through connections like the Distributed Design Platform, this resource aims to nurture collaborations that enhance the impact and reach of your community-led actions. Those special tips for working with artists and other creative people will make your actions become more impactful.
 
-![](https://action.toolkit.citiobs.eu/~gitbook/image?url=https%3A%2F%2F3530026582-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F3ScO81hkX6WG9ZC2AfjC%252Fuploads%252Fm8iIlopZ5xnIraczPbCm%252F250416_Toolkit2.0_TakeAction_v1.png%3Falt%3Dmedia%26token%3D407b693c-a26c-49ba-b368-9f15ac58649b\&width=768\&dpr=4\&quality=100\&sign=f30e0a8b\&sv=2)
-
-#### Why a toolkit? <a href="#why-a-toolkit" id="why-a-toolkit"></a>
-
-This toolkit aims **to empower you and your community to move beyond just awareness and planning towards concrete actions that lead to positive environmental change**. Keeping this in mind, this toolkit also provides resources which can help to foster relationships between Citizen Observatories and other communities in the local context, especially creatives, artists, local (maker)spaces and the cultural communities in the areas where the Citizen Observatories are based. This is brought about by providing tools and facilitating these connections through the Distributed Design Platform.
-
-**What can you get out of this toolkit?**
-
-You might be wondering, why this toolkit in the first place? Well, it was created for Citizen Observatories, groups of motivated individuals eager to protect their environment and enact positive change, who may lack the specific guidance and tools to translate their passion into effective action.
-
-**By using this toolkit, you gain access to methods and resources that can drive energy and enthusiasm within your group, help you narrow down ideas and define the scope of your action, and map the resources you need and have available.** More importantly, it also provides guidance on how to collaborate with creatives, which can significantly amplify the reach and impact of your projects with innovative and engaging approaches.
