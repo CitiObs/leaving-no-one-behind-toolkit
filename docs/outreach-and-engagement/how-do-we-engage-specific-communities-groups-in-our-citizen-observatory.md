@@ -58,9 +58,9 @@ _(not yet identified)_
 
 [How can we engage with the concepts of Equity, Diversity and Inclusion (EDI)?](../reflection/how-can-we-engage-with-the-concepts-of-equity-diversity-and-inclusion-edi.md)
 
-[How can we ensure that our outreach and engagement activities are ethical?](how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical.md)
+[How can we ensure that our outreach and engagement activities are ethical?](../how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical.md)
 
-[How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
+[How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](../how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
 
 ## References
 

@@ -1,3 +1,7 @@
+---
+icon: comment-question
+---
+
 # What does 'JEDI' mean?
 
 ## The JEDI acronym stands for Justice, Equity, Diversity & Inclusion
