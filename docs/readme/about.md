@@ -10,6 +10,6 @@ The aim of these tools is to:
 * Provide materials and guidance for co-creating inclusive local actions for sustainability
 * Provide guidance and  tools to help aggregate standardize and validate data of the Citizen Observatories such that it can be easily accessed, referenced and reliably used for decision-making and policy development towards the objectives of the European Green Deal
 
-**The Leave No One Behind (LNOB) Toolkit** is designed to help COs think through diversity and inclusion in a way that’s relevant to their specific locations and the issues they are working on. This toolkit pulls together practical guidance and resources from across Europe’s citizen science community to help COs make their initiatives more inclusive and representative of all stakeholders.​
+Explore guidance on reaching and including diverse communities with the **Leave-No-One-Behind Toolkit**, strengthen stakeholder collaboration and resolve conflicts through the **Citizen Observatory Participation Dynamics Toolkit**, and access tools for organizing impactful community-led environmental actions with the **Citizen-Led Action Toolkit**. For those interested in environmental monitoring, the **Environmental Monitoring Toolkit** offers practical advice for utilizing environmental sensing devices effectively, ensuring data quality, interoperability, and accessibility. ​
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

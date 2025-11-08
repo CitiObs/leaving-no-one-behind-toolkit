@@ -1,9 +1,13 @@
 # Table of contents
 
 * [Welcome](README.md)
-  * [How to start?](readme/how-to-start.md)
+  * [Introduction](readme/introduction.md)
+  * [Navigation](readme/navigation.md)
   * [Toolkit contents](readme/toolkit-contents.md)
   * [More about CitiObs](readme/about.md)
+  * [Glossary of Terms](readme/glossary-of-terms.md)
+* [REFLECTION](reflection/README.md)
+  * [The LNOB pledge](reflection/the-lnob-pledge.md)
 * [LNOB WORKSHOP MATERIALS](lnob-workshop-materials/README.md)
   * [Workshop Slide Deck](lnob-workshop-materials/workshop-slide-deck.md)
   * [Suggested Workshop Structure](lnob-workshop-materials/suggested-workshop-structure.md)
@@ -18,4 +22,3 @@
   * [How can we ensure our outreach and engagement activities are ethical?](sign-posted-guidance-for-tools-and-methods/how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical.md)
   * [How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](sign-posted-guidance-for-tools-and-methods/how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
   * [How do we engage specific communities/groups in our Citizen Observatory?](sign-posted-guidance-for-tools-and-methods/how-do-we-engage-specific-communities-groups-in-our-citizen-observatory.md)
-* [Glossary of Terms](readme/glossary-of-lnob-terms.md)
