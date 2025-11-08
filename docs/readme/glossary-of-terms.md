@@ -3,6 +3,7 @@ description: >-
   This handy glossary of terms has been compiled with the help of the European
   Citizen Science Association (ECSA) Working Group for Empowerment,
   Inclusiveness and Equity (EIE).
+icon: list-radio
 ---
 
 # Glossary of Terms
