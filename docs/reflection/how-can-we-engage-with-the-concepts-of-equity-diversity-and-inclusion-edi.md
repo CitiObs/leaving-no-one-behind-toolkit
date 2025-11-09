@@ -79,9 +79,9 @@ Prepare your CO and team for EDI practices.
 
 [What does Leave No One Behind (LNOB) mean?](broken-reference)
 
-[How can we ensure that our outreach and engagement activities are ethical?](../how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical.md)
+[How can we ensure that our outreach and engagement activities are ethical?](../planning/how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical-1.md)
 
-[How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](../how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
+[How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](../planning/how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
 
 [How do we engage specific communities/groups in our Citizen Observatory?](../outreach-and-engagement/how-do-we-engage-specific-communities-groups-in-our-citizen-observatory.md)
 

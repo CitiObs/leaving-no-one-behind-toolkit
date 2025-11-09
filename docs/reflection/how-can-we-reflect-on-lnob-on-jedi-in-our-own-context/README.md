@@ -1,4 +1,8 @@
-# REFLECTIVE WORKSHOP FACILITATION METHODS
+---
+icon: comment-question
+---
+
+# How can we reflect on LNOB on JEDI in our own context?
 
 We have selected a short-list of effective workshop facilitation methods to aid reflection and discussions of the relevance of the JEDI and LNOB concepts to the context of one's Citizen Observatory, based on our own experience of using them and the feedback of the European Citizen Science practitioner community gathered during the ECSA2024 Conference joint-workshop on Diversity & Inclusion in April 2024, and the online workshop with the ECSA EIE Working Group. The selection was made based on their suitability for facilitating a reflection of one’s own context and citizen science initiative, who is included or excluded, and what groups or communities risk being left behind.
 
