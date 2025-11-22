@@ -16,4 +16,4 @@ The aim of all of these tools is to:
 * Provide materials and guidance for co-creating inclusive local actions for sustainability
 * Provide guidance and  tools to help aggregate standardize and validate data of the Citizen Observatories such that it can be easily accessed, referenced and reliably used for decision-making and policy development towards the objectives of the European Green Deal
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

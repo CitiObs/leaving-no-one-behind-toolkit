@@ -16,5 +16,5 @@ These interim versions can be found in the CitiObs Zenodo repository:
 
 The final version of these slides will be uploaded to Zenodo and contained in the LNOB Toolkit and CitiObs Cookbook.
 
-<figure><img src="../../.gitbook/assets/Picture1.png" alt=""><figcaption><p>Slidedeck of the LNOB workshop</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Picture1.png" alt=""><figcaption><p>Slidedeck of the LNOB workshop</p></figcaption></figure>
 

@@ -10,7 +10,7 @@ In today's world, one of the major environmental concerns that has emerged as a 
 
 This principle, promoted under the Sustainable Development Goals (SDGs) emphasizes inclusivity, equity, and equal access to participation and benefits, ensuring that the most vulnerable and marginalised populations are not overlooked when engaging people and communities in COs and therefore that their needs are considered for policy and decision making.
 
-<figure><img src="../../.gitbook/assets/sdgs relating aq.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sdgs relating aq.webp" alt=""><figcaption></figcaption></figure>
 
 #### **Equity in Exposure and Vulnerability**
 
@@ -70,13 +70,11 @@ United Nations Development Programme. (2018). _What does it mean to leave no one
 
 &#x20;
 
-\
-
+<br>
 
 &#x20;
 
-\
-
+<br>
 
 ***
 
