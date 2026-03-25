@@ -10,7 +10,7 @@ This tool addresses elements of inclusion across different areas of an organisat
 
 SOURCE: [https://inclusion.sciencecentres.org.uk/evaluating-inclusion/practical-creative-tools/inclusionreflection-wheel/](https://inclusion.sciencecentres.org.uk/evaluating-inclusion/practical-creative-tools/inclusionreflection-wheel/)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **The Inclusion Wheel for Organisational Reflection**
 

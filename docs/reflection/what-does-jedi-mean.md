@@ -26,7 +26,7 @@ By actively engaging with equity, diversity, and inclusion, citizen observatorie
 
 ## You may also be interested in...
 
-[What does Leave No One Behind (LNOB) mean?](broken-reference)
+[What does Leave No One Behind (LNOB) mean?](/broken/pages/WOsEawIHqFrWoF9yAnov)
 
 [How can we ensure that our outreach and engagement activities are ethical?](../planning/how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical-1.md)
 

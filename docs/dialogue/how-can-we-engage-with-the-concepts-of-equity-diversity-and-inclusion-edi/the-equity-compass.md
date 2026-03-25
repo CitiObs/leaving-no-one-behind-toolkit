@@ -10,7 +10,7 @@ The Compass is made up of eight different dimensions describing a different aspe
 
 SOURCE: [https://yestem.org/tools/the-equity-compass/](https://yestem.org/tools/the-equity-compass/)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **The Equity Compass resources include:**
 
