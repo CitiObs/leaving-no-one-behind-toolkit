@@ -12,6 +12,8 @@ As citizen observatories continue to make important contributions to environment
 
 Unlike equality that limits itself to providing the same access to resources and opportunities to people, equity seeks to address the barriers that some people or groups face which impedes them of making use of the same resources and opportunities. Equity lies at the heart of building a fair and just society. Citizen observatories can promote equity by ensuring diverse groups have equal access to participation opportunities, resources, and benefits. To achieve this, observatories should actively seek to facilitate the engagement of diverse communities, including marginalised and vulnerable groups. Collaboration with community-based organizations, grassroots movements, and local leaders can help identify and address barriers to participation. Furthermore, the co-design of projects and the integration of diverse perspectives in decision-making processes can ensure that the outcomes reflect the needs and aspirations of all stakeholders.
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 **Diversity**
 
 Diversity refers to the inclusion and recognition of different perspectives, knowledge systems, and experiences. Citizen observatories can embrace diversity by encouraging the involvement of individuals from various socio-cultural backgrounds, age groups, genders, ethnicities, and abilities. Efforts should be made to create inclusive spaces where participants feel safe and respected. By adopting flexible and inclusive activities, citizen observatories can tap into the wealth of local knowledge and enhance the quality and relevance of the data collected. Moreover, collaboration with diverse stakeholders can foster interdisciplinary approaches, enriching the understanding and interpretation of environmental issues.
@@ -19,6 +21,8 @@ Diversity refers to the inclusion and recognition of different perspectives, kno
 **Inclusion**
 
 Inclusion involves creating an environment where everyone feels valued, heard, and actively engaged. Citizen observatories can promote inclusion by adopting participatory methodologies that empower people to co-create and co-govern projects. Emphasizing transparent and accessible communication channels can facilitate the exchange of ideas and ensure that information is disseminated in a manner that is understandable and relevant to diverse audiences. Building capacity and providing training opportunities can enable individuals from marginalised and vulnerable communities to actively contribute to monitoring efforts, data analysis, and decision-making processes.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Benefits of Equity, Diversity, and Inclusion**
 
