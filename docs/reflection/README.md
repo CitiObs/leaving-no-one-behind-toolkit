@@ -7,7 +7,7 @@ coverHeight: 156
 
 # REFLECTION
 
-## Why it's important
+## Why is it relevant?
 
 A recurrent challenge for Citizen Science projects and initiatives is the lack of diversity amongst participants. The causes for this can relate to limited capacity or reach on the part of project leaders, and a lack of resources on the part of potential participants such as time to participate, or the money to acquire equipment. However, the causes can be much more complex and intersectional with regard to gender, age, socio economic status, literacy levels, religious affiliation, dis/ability, and other factors.&#x20;
 
