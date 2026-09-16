@@ -12,7 +12,7 @@ As citizen observatories continue to make important contributions to environment
 
 Unlike equality that limits itself to providing the same access to resources and opportunities to people, equity seeks to address the barriers that some people or groups face which impedes them of making use of the same resources and opportunities. Equity lies at the heart of building a fair and just society. Citizen observatories can promote equity by ensuring diverse groups have equal access to participation opportunities, resources, and benefits. To achieve this, observatories should actively seek to facilitate the engagement of diverse communities, including marginalised and vulnerable groups. Collaboration with community-based organizations, grassroots movements, and local leaders can help identify and address barriers to participation. Furthermore, the co-design of projects and the integration of diverse perspectives in decision-making processes can ensure that the outcomes reflect the needs and aspirations of all stakeholders.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Diversity**
 
@@ -22,7 +22,7 @@ Diversity refers to the inclusion and recognition of different perspectives, kno
 
 Inclusion involves creating an environment where everyone feels valued, heard, and actively engaged. Citizen observatories can promote inclusion by adopting participatory methodologies that empower people to co-create and co-govern projects. Emphasizing transparent and accessible communication channels can facilitate the exchange of ideas and ensure that information is disseminated in a manner that is understandable and relevant to diverse audiences. Building capacity and providing training opportunities can enable individuals from marginalised and vulnerable communities to actively contribute to monitoring efforts, data analysis, and decision-making processes.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Benefits of Equity, Diversity, and Inclusion**
 
@@ -32,13 +32,13 @@ By actively engaging with equity, diversity, and inclusion, citizen observatorie
 
 [What does Leave No One Behind (LNOB) mean?](/broken/pages/WOsEawIHqFrWoF9yAnov)
 
-[How can we ensure that our outreach and engagement activities are ethical?](../planning/how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical-1.md)
+[How can we ensure that our outreach and engagement activities are ethical?](../../planning/how-can-we-ensure-our-outreach-and-engagement-activities-are-ethical-1.md)
 
-[How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](../planning/how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
+[How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](../../planning/how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
 
-[How do we engage specific communities/groups in our Citizen Observatory?](../outreach-and-engagement/how-do-we-engage-specific-communities-groups-in-our-citizen-observatory.md)
+[How do we engage specific communities/groups in our Citizen Observatory?](../../outreach-and-engagement/how-do-we-engage-specific-communities-groups-in-our-citizen-observatory.md)
 
-<figure><img src="../.gitbook/assets/jedi image with citiobs background.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/jedi image with citiobs background.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## References
 
