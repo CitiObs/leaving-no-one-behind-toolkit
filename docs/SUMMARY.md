@@ -38,6 +38,8 @@
   * [How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](planning/how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
 * [OUTREACH & ENGAGEMENT](outreach-and-engagement/README.md)
   * [How do we engage specific communities/groups in our Citizen Observatory?](outreach-and-engagement/how-do-we-engage-specific-communities-groups-in-our-citizen-observatory.md)
+  * [How can we ensure our citizen observatory is digitally inclusive?](outreach-and-engagement/how-can-we-ensure-our-citizen-observatory-is-digitally-inclusive/README.md)
+    * [CitiMeasure Guidelines on Competencies for Digital Inclusion](outreach-and-engagement/how-can-we-ensure-our-citizen-observatory-is-digitally-inclusive/citimeasure-guidelines-on-competencies-for-digital-inclusion.md)
 * [CO-CREATION & CO-PRODUCTION](co-creation-and-co-production.md)
 * [EVALUATION](evaluation/README.md)
   * [How can we evaluate our efforts to be more diverse and inclusive?](evaluation/how-can-we-evaluate-our-efforts-to-be-more-diverse-and-inclusive/README.md)
