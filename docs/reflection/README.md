@@ -3,6 +3,30 @@ icon: circle-1
 cover: ../.gitbook/assets/reflection header (2).png
 coverY: 0
 coverHeight: 156
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # REFLECTION
@@ -15,4 +39,4 @@ Taking the time to reflect on who might be left behind or experiencing barriers 
 
 <figure><img src="../.gitbook/assets/ECSA _ Infographic (with logo) - smaller file[1].jpg" alt=""><figcaption></figcaption></figure>
 
-_Graphic illustration created by Ruth Graham from a community discussion on inclusion and equity by the ECSA working group on Empowerment, Inclusion and Equity and others in February 2026._
+_Graphic illustration created by Ruth Graham from a community discussion on inclusion and equity by the_ [_ECSA working group on Empowerment, Inclusion and Equity_](https://www.ecsa.ngo/working-groups/empowerment-inclusiveness-equity/) _and others in February 2026._

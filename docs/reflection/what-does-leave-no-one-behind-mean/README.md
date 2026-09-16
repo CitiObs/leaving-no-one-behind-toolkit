@@ -8,7 +8,7 @@ icon: comment-question
 
 In 2015, the 193 Member States of the United Nations pledged to ensure “no one will be left behind” and to “endeavour to reach the furthest behind first” when they approved the 2030 Agenda for Sustainable Development (UN, 2015a & 2015b). The intention of this pledge is for Member States to take explicit action to eradicate poverty in all its forms, end discrimination and exclusion, and reduce the inequalities and vulnerabilities that leave people behind and undermine the potential of individuals and humanity as a whole, as well as to fast-track progress for those furthest behind.
 
-<figure><img src="../.gitbook/assets/5 LNOB Factors image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 LNOB Factors image.png" alt=""><figcaption></figcaption></figure>
 
 The United Nations Development Programme (UNDP), which works with countries to implement the 2030 Agenda, has defined five key factors that help to understand who is being left behind and why, as shown in the figure above, namely: Discrimination, Vulnerability to shocks, Governance, Socio-economic status, and Geography.&#x20;
 
