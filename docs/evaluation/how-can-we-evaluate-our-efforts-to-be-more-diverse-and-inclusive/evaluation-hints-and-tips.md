@@ -19,7 +19,7 @@ The Association for Science and Discovery Centres in the UK advises its members 
 
 SOURCE: [https://inclusion.sciencecentres.org.uk/evaluating-inclusion/starting-out/](https://inclusion.sciencecentres.org.uk/evaluating-inclusion/starting-out/)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
