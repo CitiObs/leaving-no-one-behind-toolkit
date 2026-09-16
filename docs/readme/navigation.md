@@ -10,13 +10,13 @@ This toolkit has been designed to make it easy for the reader to move about free
 
 <figure><img src="../.gitbook/assets/LNOB NAVIGATION.png" alt=""><figcaption></figcaption></figure>
 
-1. REFLECTION - turn to this section to read about the 'Leave No One Behind' pledge and reflect the concepts of justice, equity, diversity and inclusion
-2. DIALOGUE - this section
-3. INSIGHT GATHERING - this section
-4. PLANNING - this section
-5. OUTREACH & ENGAGEMENT - this section
-6. CO-CREATION & CO-PRODUCTION - this section
-7. EVALUATION - this section
+1. **REFLECTION** - turn to this section to read about the 'Leave No One Behind' pledge and reflect the concepts of justice, equity, diversity and inclusion&#x20;
+2. **DIALOGUE** — turn to this section to explore why engaging in dialogue is an important first step towards understanding issues of equity, diversity and inclusion in your initiative, and to find tools and resources to help you facilitate an internal team discussion or engage with the wider community
+3. **INSIGHT GATHERING** — turn to this section to discover facilitation methods and tools that can help you gain a deeper understanding of who may be left behind in your own context, by exploring lived experience, geographical context, and existing roles and inequities
+4. **PLANNING** — turn to this section to find frameworks and checklists to help you ensure your outreach and engagement activities are conducted in an ethical way, and that your Citizen Observatory practices are equitable, diverse and inclusive
+5. **OUTREACH & ENGAGEMENT** — turn to this section for practical guidance and resources on how to reach and engage specific communities and groups who may be underrepresented or hard to reach in your Citizen Observatory
+6. **CO-CREATION & CO-PRODUCTION** — turn to this section to find out how you can involve diverse participants more deeply in the design and delivery of your initiative, moving beyond data collection towards genuine collaboration and shared ownership of the research process
+7. **EVALUATION** — turn to this section to find guidance and hints and tips on how to evaluate your efforts to be more diverse and inclusive, and to ensure that your reflection and assessment process is itself participatory and equitable
 
 ### Section Structure
 
