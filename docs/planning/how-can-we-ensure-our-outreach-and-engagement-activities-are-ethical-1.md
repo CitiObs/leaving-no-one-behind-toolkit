@@ -36,7 +36,7 @@ _(more resources pending)_
 
 [How can we ensure our Citizen Observatory practices are equitable, diverse and inclusive (EDI)?](how-can-we-ensure-our-citizen-observatory-practices-are-equitable-diverse-and-inclusive-edi.md)
 
-[How do we engage specific communities/groups in our Citizen Observatory?](../outreach-and-engagement/how-do-we-engage-specific-communities-groups-in-our-citizen-observatory.md)
+[How do we engage specific communities/groups in our Citizen Observatory?](../outreach-and-engagement/how-do-we-engage-diverse-communities-groups-in-our-co.md)
 
 ## References
 

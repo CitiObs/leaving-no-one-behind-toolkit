@@ -1,8 +1,9 @@
 ---
 description: '[before, during, after]'
+icon: comment-question
 ---
 
-# How do we engage specific communities/groups in our Citizen Observatory?
+# How do we engage diverse communities/groups in our CO?
 
 ## Why is it relevant?
 
